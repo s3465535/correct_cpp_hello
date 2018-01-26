@@ -57,3 +57,4 @@ Your code must be correct, thus your code must:
  * [2] Linus Torvalds. [Re:[PATCH] Don't compare unsigned variable for &lt;0 in sys\_prctl()](http://linux.derkeiler.com/Mailing-Lists/Kernel/2006-11/msg08325.html). 2006-11-28. Retrieved on 2010-09-20. 'Friends don't let friends use [gcc] "-W"'
  * [3] [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. Chapter 2.6: 'Document the interfaces so that they are usable by others. Have at least one other developer review each interface'
  * [4] Steve McConnell. Rapid Development. 1997. ISBN: 978-1-55615-900-8. Page 534: Create good documentation
+:)
